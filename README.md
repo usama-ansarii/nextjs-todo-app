@@ -24,6 +24,9 @@ A simple and clean To-Do application built with **Next.js**, **Tailwind CSS**, *
 
 ---
 
+[[![Watch the video]([https://cdn.loom.com/sessions/thumbnails/your-video-id-with.jpg](https://www.loom.com/share/a2c58f6f48ac453da7e4c4908fc51e84?sid=b5f85794-9366-4a01-ad14-40672ae17377))]([https://www.loom.com/share/your-video-id](https://www.loom.com/share/a2c58f6f48ac453da7e4c4908fc51e84?sid=b5f85794-9366-4a01-ad14-40672ae17377))](https://www.loom.com/share/a2c58f6f48ac453da7e4c4908fc51e84?sid=09e1a05d-9800-4597-a52e-591212c5b6f3)
+
+
 ## ⚙️ Setup Instructions
 ```bash
 # 1️⃣ Clone the repository
@@ -37,3 +40,14 @@ npm install
 
 # 4️⃣ Run the development server
 npm run dev
+
+=
+## 📽️ Demo
+
+## 📽️ Demo
+
+
+
+
+
+
