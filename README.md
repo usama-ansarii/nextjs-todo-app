@@ -28,8 +28,12 @@ A simple and clean To-Do application built with **Next.js**, **Tailwind CSS**, *
 
 <video src="https://github.com/usama-ansarii/nextjs-todo-app/raw/main/Demo.webm" controls width="600"></video>
 
+🎥 [Click here if the video doesn’t load](https://github.com/usama-ansarii/nextjs-todo-app/raw/main/Demo.webm)
+
+---
 
 ## ⚙️ Setup Instructions
+
 ```bash
 # 1️⃣ Clone the repository
 git clone git@github.com:usama-ansarii/nextjs-todo-app.git
@@ -42,8 +46,3 @@ npm install
 
 # 4️⃣ Run the development server
 npm run dev
-
-
-
-
-
